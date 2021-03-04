@@ -2,9 +2,13 @@
 
 A JUNIOR DATA ENGINEERING 
 IN LOVE WITH INTEGRATING CODE AND DESIGN
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kenzchiro&show_icons=true)
 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kenzchiro&show_icons=true&theme=dracula)
+<!--
+All inbuilt themes :-
+dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula
+-->
 <!--
 **kenzchiro/kenzchiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
