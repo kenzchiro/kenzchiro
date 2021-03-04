@@ -3,6 +3,7 @@
 A JUNIOR DATA ENGINEERING 
 IN LOVE WITH INTEGRATING CODE AND DESIGN
 
+- 🔭 I’m currently working on Data Engineer
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kenzchiro&show_icons=true&theme=dracula)
 <!--
