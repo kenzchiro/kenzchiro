@@ -1,4 +1,4 @@
-### Hi, I'm Ken 👋
+### Hi, I'm Ken <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 A JUNIOR DATA ENGINEERING 
 IN LOVE WITH INTEGRATING CODE AND DESIGN
