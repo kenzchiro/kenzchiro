@@ -1,5 +1,8 @@
 ### Hi, I'm Ken 👋
 
+A JUNIOR DATA ENGINEERING 
+IN LOVE WITH INTEGRATING CODE AND DESIGN
+
 <!--
 **kenzchiro/kenzchiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
