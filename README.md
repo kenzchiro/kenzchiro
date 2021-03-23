@@ -3,7 +3,7 @@
 A JUNIOR DATA ENGINEERING 
 IN LOVE WITH INTEGRATING CODE AND DESIGN
 
-link : https://kenzchiro.github.io
+official portfolio online : https://kenzchiro.github.io
 
 - 🔭 I’m currently working on Data Engineer
 
